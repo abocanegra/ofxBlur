@@ -25,7 +25,7 @@ public:
 	void draw();
     void draw(ofRectangle rect);
 
-	ofTexture& getTextureReference();
+    ofTexture& getTexture();
 };
 
 // <3 kyle
