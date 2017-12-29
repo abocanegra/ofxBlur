@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+// Icon Resource Definition
+#define MAIN_ICON                       102
+
+#if defined(_DEBUG)
+MAIN_ICON               ICON                    "icon_debug.ico"
+#else
+MAIN_ICON               ICON                    "icon.ico"
+#endif
+=======
+// Icon Resource Definition
+#define MAIN_ICON                       102
+
+#if defined(_DEBUG)
+MAIN_ICON               ICON                    "icon_debug.ico"
+#else
+MAIN_ICON               ICON                    "icon.ico"
+#endif
+>>>>>>> d9fa92d9c2ac2fafd4a4c3dfc034da9793d33497
